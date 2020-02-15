@@ -1,11 +1,12 @@
 import React from 'react';
 import Aux from '../Aux/Aux';
 import styles from './Layout.module.css';
+import Navbar from '../Navbar/Navbar'
 
 const layout = (props) => (
     <Aux>
-        
-        <main className={classes.Content}>
+        <Navbar/>
+        <main>
             {props.children}
         </main>
     </Aux>
