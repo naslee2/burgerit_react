@@ -1,0 +1,30 @@
+
+.Navbar{
+    height: 50px;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+}
+
+.NavbarList{
+    list-style-type: none;
+    text-align: center;
+}
+
+.NavbarList li{
+    display: inline-block;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.NavbarList a{
+    text-decoration: none;
+    color: white;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+ }

@@ -2,13 +2,13 @@ import React from 'react';
 import styles from '../Navbar/Navbar.module.css'
 
 const navbar = (props) => (
-    <header>
+    <header className={styles.Navbar}>
         <nav>
-            <ul>
-                <li><a>Burger-It</a></li>
-                <li><a>Our Work</a></li>
-                <li><a>Menu</a></li>
-                <li><a>Contact</a></li>
+            <ul className={styles.NavbarList}>
+                <li><a href="#test">Burger-It</a></li>
+                <li><a href="#test">Our Work</a></li>
+                <li><a href="#test">Menu</a></li>
+                <li><a href="#test">Contact</a></li>
             </ul>
         </nav>
     </header>
