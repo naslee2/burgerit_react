@@ -1,3 +1,7 @@
 .Intro{
-    
+    background-image: url('../../Assets/16962679.400000002_pexels-photo-750073.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
 }
