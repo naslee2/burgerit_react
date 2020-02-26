@@ -3,7 +3,6 @@ import styles from '../Intro/Intro.module.css'
 
 const intro = (props) => (
     <div className={styles.Intro}>
-        <p>sdfadf</p>
     </div>
 );
 
