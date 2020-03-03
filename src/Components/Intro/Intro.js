@@ -5,7 +5,7 @@ const intro = (props) => (
     <div className={styles.Intro}>
         <div className={styles.Center}>
             <p className={styles.CenterTitle}>Burger-It</p>
-            <p className={styles.CenterMotto}>Deliciousness Redefined</p>
+            <h2 className={styles.CenterMotto}>Deliciousness Redefined</h2>
             <button>View Menu</button>
         </div>
     </div>
