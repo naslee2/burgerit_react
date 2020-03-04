@@ -6,7 +6,7 @@ const intro = (props) => (
         <div className={styles.Center}>
             <p className={styles.CenterTitle}>Burger-It</p>
             <h2 className={styles.CenterMotto}>Deliciousness Redefined</h2>
-            <button>View Menu</button>
+            <button className={styles.Button}>View Menu</button>
         </div>
     </div>
 );

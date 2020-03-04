@@ -26,6 +26,11 @@
     color: white;
 }
 
+.NavbarBurgerIt{
+    font-family: 'Euphoria Script', cursive;
+    font-size: 20px;
+ }
+
 * {
     margin: 0px;
     padding: 0px;

@@ -5,7 +5,7 @@ const navbar = (props) => (
     <header className={styles.Navbar}>
         <nav>
             <ul className={styles.NavbarList}>
-                <li><a href="#test">Burger-It</a></li>
+                <li className={styles.NavbarBurgerIt}><a href="#test">Burger-It</a></li>
                 <li><a href="#test">Our Work</a></li>
                 <li><a href="#test">Menu</a></li>
                 <li><a href="#test">Contact</a></li>
