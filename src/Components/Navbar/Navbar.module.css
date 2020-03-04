@@ -3,6 +3,7 @@
     height: 50px;
     background-color: black;
     position: fixed;
+    z-index: 1;
     width: 100%;
     opacity: 80%;
 }

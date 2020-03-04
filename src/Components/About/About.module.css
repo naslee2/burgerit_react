@@ -5,3 +5,18 @@
     background-position: center;
     height: 100%;
 }
+
+.AboutInfo{
+    color: white;
+    position: absolute;
+    padding-left: 55%;
+    padding-top: 24%;
+    height: 150px;
+    width: 400px;
+}
+
+.AboutInfo p{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
