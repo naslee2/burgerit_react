@@ -4,4 +4,19 @@
     background-repeat: no-repeat;
     background-position: center;
     height: 100%;
+    text-align: center;
+}
+
+.ContactInfo{
+    /* position: absolute; */
+    display: grid;
+    color: white;
+    place-items: center;
+    padding-top: 16%;
+    height: 80px;
+}
+
+.ContactInfo p{
+    padding-top: 40px;
+    font-size: 20px;
 }

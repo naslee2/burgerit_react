@@ -1,5 +1,5 @@
 .Intro{
-    background-image: url('../../Assets/16962679.400000002_pexels-photo-750073.jpeg');
+    background-image: url('../../Assets/16992727.900000002_pexels-photo-1199958.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -22,8 +22,9 @@
 
 .CenterMotto{
     color: white;
-    font-size: 25px;
+    font-size: 24px;
     margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .Button{

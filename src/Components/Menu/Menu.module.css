@@ -1,7 +1,38 @@
 .Menu{
-    background-image: url('../../Assets/16992727.900000002_pexels-photo-1199958.jpeg');
+    background-image: url('../../Assets/16962679.400000002_pexels-photo-750073.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 100%;
+}
+
+.Menu2{
+    position: absolute;
+    padding-left: 55%;
+    padding-top: 20%;
+    color: white;
+    width: 400px;
+}
+
+.Menu2Logo{
+    font-family: 'Euphoria Script', cursive;
+    color: white;
+    font-size: 100px;
+}
+
+.Menu2Recommendation{
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Menu2Nutrition1{
+    padding-top: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Menu2Nutrition2{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
