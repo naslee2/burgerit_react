@@ -2,7 +2,7 @@ import React from 'react';
 import styles from '../Contact/Contact.module.css'
 
 const contact = (props) => (
-    <div className={styles.Contact}>
+    <div className={styles.Contact} id="contact">
         <div className={styles.ContactInfo}>
             <p>Free Today? How about tomorrow?</p>
             <p>We'll be here, 24/7</p>
